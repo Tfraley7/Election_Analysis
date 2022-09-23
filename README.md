@@ -25,7 +25,7 @@ The analysis of the election showed that:
     - Jefferson County received 10.5% of the votes and 38,855 number of votes.
     - Denver County received 82.8% of the votes and 306,055 number of votes.
     - Arapahoe County received 6.7% of the votes and 24,801 number of votes.
--County with largest votes: Denver County (306,055 votes)
+- County with largest votes: Denver County (306,055 votes)
 - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
