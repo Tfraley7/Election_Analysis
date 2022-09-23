@@ -22,9 +22,9 @@ The main driver in this project is to collect and analyze the election results f
 ## Election-Audit Results
 The analysis of the election showed that:
 - There were 369,711 votes cast in the election.
-    -Jefferson County received 10.5% of the votes and 38,855 number of votes.
-    -Denver County received 82.8% of the votes and 306,055 number of votes.
-    -Arapahoe County received 6.7% of the votes and 24,801 number of votes.
+    - Jefferson County received 10.5% of the votes and 38,855 number of votes.
+    - Denver County received 82.8% of the votes and 306,055 number of votes.
+    - Arapahoe County received 6.7% of the votes and 24,801 number of votes.
 -County with largest votes: Denver County (306,055 votes)
 - The candidates were:
     - Charles Casper Stockham
