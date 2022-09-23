@@ -35,7 +35,29 @@ The analysis of the election showed that:
 - The winner of the eleciton was:
     - Diana DeGette, who received 73.8% of the vote and 272,862 number of votes
     
-   ![](election_analysis.txt)
+                            Election Results
+                            -------------------------
+                            Total Votes: 369,711
+                            -------------------------
+
+                            County Votes:
+                            Jefferson: 10.5% (38,855)
+                            Denver: 82.8% (306,055)
+                            Arapahoe: 6.7% (24,801)
+                            -------------------------
+                            Largest County Turnout: Denver
+                            -------------------------
+                            Charles Casper Stockham: 23.0% (85,213)
+                            Diana DeGette: 73.8% (272,892)
+                            Raymon Anthony Doane: 3.1% (11,606)
+                            -------------------------
+                            Winner: Diana DeGette
+                            Winning Vote Count: 272,892
+                            Winning Percentage: 73.8%
+                            -------------------------
+
+
+
     
 ## Visual of Election Results
 
@@ -46,6 +68,6 @@ The following image is comprised of several graphs that observe the election res
     
 ## Election-Audit Summary
 
-Overall the Python script was successful in collecting data from the election analysis csv file and then analyzing that data. Counties, candidates, vote counts, and percentages were able to be categorized and viewed through the use of Python. The Python script was able to find that out of 369,711 total votes that Diana DeGette is now declared as the winner with a total of 272,862 votes. Knowing the success of the script the county can now tie the script into other elections or voting analysis. Modifications to the script could be for two different types of elections that could be analyzed in this data could be on a city level, such as an election for city mayor or for votes for state laws. On a city level the script could be adjusted by changing "county" to "city" (ie. city_votes = {}). For laws you would simply adjust "candidate" to "law" (ie. law_options).
+Overall the Python script was successful in collecting data from the election analysis csv file and then analyzing that data. Counties, candidates, vote counts, and percentages were able to be categorized and viewed through the use of Python. The Python script was able to find that out of 369,711 total votes that Diana DeGette is now declared as the winner with a total of 272,862 votes. Knowing the success of the script the county can now tie the script into other elections or voting analysis. Modifications to the script could be for two different types of elections that could be analyzed in this data could be on a city level, such as an election for city mayor or for votes for state laws. On a city level the script could be adjusted by changing "county" to "city" (ie. city_votes = {}). For laws you would simply adjust "candidate" to "law" (ie. law_options = []).
 
  
