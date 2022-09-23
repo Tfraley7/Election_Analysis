@@ -1,8 +1,8 @@
 # Election_Analysis
 
 # PyPoll Challenge - Election Results
-Tyrone Fraley 
-UC Berkley Extension 
+Tyrone Fraley -
+UC Berkley Extension -
 September 7, 2022 
 
 ## Overview of Election Audit
