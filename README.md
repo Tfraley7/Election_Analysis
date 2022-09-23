@@ -13,11 +13,11 @@ In this analysis I was tasked to assist Tom - a member of the Colorado board of 
 
 The main driver in this project is to collect and analyze the election results for Denver, Jefferson, and Arapahoe county of Colorado. The three running candidates are Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane. Now that the analysis has been complete the Python script produced in this analysis will assist the Colorado board of elections in the future elections. Such automation through Python could be useful to the Colorade board of elections for possibly many years to come. 
 
-##Resources
+## Resources
 - Sept 7, 2022: election_results.csv
 - Software: Python 3.9.12, Visual Studio Code, 1.70.1 (Universal)
 
-##Election-Audit Results
+## Election-Audit Results
 The analysis of the election showed that:
 - There were 369,711 votes cast in the election.
     -Jefferson County received 10.5% of the votes and 38,855 number of votes.
@@ -35,26 +35,26 @@ The analysis of the election showed that:
 - The winner of the eleciton was:
     - Diana DeGette, who received 73.8% of the vote and 272,862 number of votes
 
-Election Results
--------------------------
-Total Votes: 369,711
--------------------------
+    Election Results
+    -------------------------
+    Total Votes: 369,711
+    -------------------------
 
-County Votes:
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
--------------------------
-Largest County Turnout: Denver
--------------------------
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
+    County Votes:
+    Jefferson: 10.5% (38,855)
+    Denver: 82.8% (306,055)
+    Arapahoe: 6.7% (24,801)
+    -------------------------
+    Largest County Turnout: Denver
+    -------------------------
+    Charles Casper Stockham: 23.0% (85,213)
+    Diana DeGette: 73.8% (272,892)
+    Raymon Anthony Doane: 3.1% (11,606)
+    -------------------------
+    Winner: Diana DeGette
+    Winning Vote Count: 272,892
+    Winning Percentage: 73.8%
+    -------------------------
 
     
 ## Visual of Election Results
