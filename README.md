@@ -35,6 +35,13 @@ The analysis of the election showed that:
 - The winner of the eleciton was:
     - Diana DeGette, who received 73.8% of the vote and 272,862 number of votes
     
+## Visual of Election Results
+
+The following image is comprised of several graphs that observe the election results. A map was developed to display the observed Colorado counties during the elections wiht the total votes for each county. This map also includes total votes for each candidate in each county. A pie chart was used to show the total percentage of votes for each candidate and a bar chart was used to observe total votes for the candidates. Finally, the winning candidate (Diana Degette), the winning candidate's vote count and percentage of votes is displayed within this image below.
+
+![](Election%20Results%20Visual.png)
+    
+    
 ## Election-Audit Summary
 
 Overall the Python script was successful in collecting data from the election analysis csv file and then analyzing that data. Counties, candidates, vote counts, and percentages were able to be categorized and viewed through the use of Python. The Python script was able to find that out of 369,711 total votes that Diana DeGette is now declared as the winner with a total of 272,862 votes. Knowing the success of the script the county can now tie the script into other elections or voting analysis. Modifications to the script could be for two different types of elections that could be analyzed in this data could be on a city level, such as an election for city mayor or for votes for state laws. On a city level the script could be adjusted by changing "county" to "city" (ie. city_votes = {}). For laws you would simply adjust "candidate" to "law" (ie. law_options).
