@@ -35,6 +35,8 @@ The analysis of the election showed that:
 - The winner of the eleciton was:
     - Diana DeGette, who received 73.8% of the vote and 272,862 number of votes
     
+   ![](election_analysis.txt)
+    
 ## Visual of Election Results
 
 The following image is comprised of several graphs that observe the election results. A map was developed to display the observed Colorado counties during the elections wiht the total votes for each county. This map also includes total votes for each candidate in each county. A pie chart was used to show the total percentage of votes for each candidate and a bar chart was used to observe total votes for the candidates. Finally, the winning candidate (Diana Degette), the winning candidate's vote count and percentage of votes is displayed within this image below.
