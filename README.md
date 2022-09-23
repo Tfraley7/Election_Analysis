@@ -37,9 +37,6 @@ The analysis of the election showed that:
     
 ## Election-Audit Summary
 
-Overall the Python script was successful in collecting data from the election analysis csv file and then analyzing that data. Counties, candidates, vote counts, and percentages were able to be categorized and viewed through the use of Python. Knowing the success of the script the county can now tie the script into other elections or voting analysis. Two of which could be for 
+Overall the Python script was successful in collecting data from the election analysis csv file and then analyzing that data. Counties, candidates, vote counts, and percentages were able to be categorized and viewed through the use of Python. The Python script was able to find that out of 369,711 total votes that Diana DeGette is now declared as the winner with a total of 272,862 votes. Knowing the success of the script the county can now tie the script into other elections or voting analysis. Modifications to the script could be for two different types of elections that could be analyzed in this data could be on a city level, such as an election for city mayor or for votes for state laws. On a city level the script could be adjusted by changing "county" to "city" (ie. city_votes = {}). For laws you would simply adjust "candidate" to "law" (ie. law_options).
 
-
-
-## Election-Audit Summary 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections. Two different elections that could be analyzed in this data could be on a city level, such as an election for city mayor or for votes for state laws. On a city level the script could be adjusted by changing "county" to >city< (ie. city_votes = {}). For laws you would simply adjust >candidate< to laws (ie. law_options).
+ 
